@@ -1,4 +1,5 @@
-import com.mtronicsdev.translatorGator.Translator;
+package com.mtronicsdev.translatorGator;
+
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
