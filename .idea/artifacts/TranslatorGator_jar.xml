@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="TranslatorGator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TranslatorGator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TranslatorGator.jar">
+        <element id="module-output" name="TranslatorGator" />
+      </element>
+      <element id="directory" name="res">
+        <element id="directory" name="translatorGator">
+          <element id="file-copy" path="$PROJECT_DIR$/res/translatorGator/settings.properties" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
