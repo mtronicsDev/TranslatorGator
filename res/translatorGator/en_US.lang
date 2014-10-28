@@ -1,0 +1,24 @@
+test   = test
+money  = money
+monkey = monkey
+car    = car
+
+pointer1 = pointer2
+pointer2 = pointer3
+pointer3 = pointer4
+pointer4 = pointer5
+pointer5 = pointer6
+pointer6 = pointer7
+pointer7 = pointer8
+pointer8 = pointer9
+pointer9 = pointerA
+pointerA = pointerB
+pointerB = pointerC
+pointerC = pointerD
+pointerD = pointerE
+pointerE = pointerF
+pointerF = pointerG
+pointerG = pointerH
+pointerH = pointerI
+pointerI = pointerJ
+pointerJ = finished
